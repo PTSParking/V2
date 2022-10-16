@@ -6,7 +6,7 @@ Please install Python3 and the following modules using the commands given below 
 
 2.Pywhatkit
 
-3.termcolor
+3.Termcolor
 
 ### Installation
 
